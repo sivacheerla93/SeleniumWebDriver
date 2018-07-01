@@ -1,3 +1,9 @@
+/bin/
+/build/*
+/.settings/*
+/upload.bat
+*.classpath
+
 # Compiled class file
 *.class
 
