@@ -1,2 +1,1 @@
-# SeleniumWebDriverDemo
-SeleniumWebDriverDemo
+# Selenium Web Driver Demo
